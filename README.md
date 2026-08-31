@@ -51,7 +51,7 @@ The dashboard provides four primary KPIs:
 - **Transactions:** 
 - **Total Quantity:** 
 
-These values dynamically change based on the selected slicer filters.
+These KPIs dynamically update based on the selected **Region** and **Year** slicers.
 
 ## 📊 Dashboard Visualizations
 
