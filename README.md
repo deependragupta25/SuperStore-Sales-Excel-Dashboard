@@ -46,10 +46,10 @@ The dataset includes information related to:
 
 The dashboard provides four primary KPIs:
 
-- **Total Sales:** 1,289,153
-- **Sales Average:** 554.95
-- **Transactions:** 2,323
-- **Total Quantity:** 5,876
+- **Total Sales:** 
+- **Sales Average:**
+- **Transactions:** 
+- **Total Quantity:** 
 
 These values dynamically change based on the selected slicer filters.
 
