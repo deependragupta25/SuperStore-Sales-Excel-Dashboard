@@ -1,6 +1,10 @@
 # SuperStore Sales Dashboard – Excel
 
-![SuperStore Sales Dashboard](screenshots/Dashboard.png)
+## 🎥 Dashboard Demo
+
+[![Watch the Dashboard Demo](screenshots/Dashboard.png)](demo/SuperStore_Dashboard_Demo.mp4)
+
+*A short walkthrough demonstrating the Excel dashboard, Power Query workflow, analysis and dynamic slicers.*
 
 ## 📊 Project Overview
 
@@ -103,6 +107,8 @@ Selecting different combinations of Region and Year dynamically updates the dash
 | `demo/SuperStore_Dashboard_Demo.mp4` | Dashboard walkthrough video |
 
 ## 🎥 Dashboard Demo
+
+▶️ **[Watch the Dashboard Demo](demo/SuperStore_Dashboard_Demo.mp4)**
 
 A short screen recording demonstrates the complete workflow from the source data and analysis to the final interactive dashboard.
 
